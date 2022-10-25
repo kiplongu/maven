@@ -8,13 +8,8 @@ div {text-align: center;}
 </head>
 <body>
 
-<<<<<<< HEAD
-<h1 style="color:blue;"> Hello, Welcome to DevOps  Project and happy learning  </h1>
-<h1 style="color:blue;"> Version: 1.8 - Running on Ansible playbook  script to create a container on Docker Server - Subscribe my channel and keep learning </h1>
-=======
-<h1 style="color:blue;"> Hello Rodgers, Welcome to my DevOps first Project  </h1>
-<h1 style="color:blue;"> Keep learning </h1>
->>>>>>> ca296a22a3d8dfaf47a2502c9d0536fcb58b0734
+<h1 style="color:blue;"> Hello rodgers happy learning in DevOps  Projects  </h1>
+<h1 style="color:blue;"> Running Ansible playbook  script to create a container on Ansible-server </h1>
 </body>
 </html>
 
